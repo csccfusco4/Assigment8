@@ -18,23 +18,23 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: Session hijacking
 
-Vulnerability #2: __________________
+Vulnerability #2: __Squl Blue________________
 
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: _Username emmuration_________________
 
-Vulnerability #2: __________________
+Vulnerability #2: __Gif 2________________
 
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: ___Insecure Direct Object
 
-Vulnerability #2: __________________
+Vulnerability #2: __Cross Request Forgery
 
 
 ## Notes
